@@ -1,5 +1,5 @@
 # SpotiRagequit
-A simple batch file to ragequit Spotify, restart and resume playing
+A simple batch file to ragequit Spotify (desktop client), restart and resume playing. 
 
 # How it works
 Double click on the .bat file. It will close Spotify, delay a second and then restart Spotify.
