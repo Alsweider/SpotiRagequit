@@ -9,7 +9,7 @@ After another second delay, PowerShell is used to send a spacebar input to Spoti
 
 # Troubleshooting
 
-1. If Spotify can't be started again, edit the line "start %appdata%\Spotify\Spotify.exe" and replace it with your correct path to the "Spotify.exe".
+1. If Spotify can't be restarted, edit the line "start %appdata%\Spotify\Spotify.exe" and replace it with your correct path to the "Spotify.exe".
 2. If Spotify is still running, it might help to add multiple lines of "taskkill /f /im Spotify.exe" to the code.
 3. If your computer is very slow, it might help to increase the delay by changing "timeout 1" to "timeout 5" (for 5 seconds). 
 4. If the music doesn't resume playing, make sure the Spotify window remains focussed in the foreground while the batch is working.
