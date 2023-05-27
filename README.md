@@ -1,6 +1,8 @@
 # SpotiRagequit
 A simple batch file to ragequit Spotify (desktop client), restart and resume playing. 
 
+Download: https://github.com/Alsweider/SpotiRagequit/releases/latest
+
 # How it works
 Double click on the .bat file. It will close Spotify, delay a second and then restart Spotify.
 After that, PowerShell is used to send a spacebar input to Spotify, which resumes playing the current playlist.
