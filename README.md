@@ -5,7 +5,7 @@ Download: https://github.com/Alsweider/SpotiRagequit/releases/latest
 
 # How it works
 Double click on the .bat file. It will close Spotify, delay a second and restart Spotify.
-After another second delay, PowerShell is used to send a spacebar input to Spotify, which resumes playing the current playlist.
+After another second delay, PowerShell is used to send a spacebar input to Spotify, which resumes playing the current playlist. For easy access, it is recommended to create a shortcut in the start menu, for example.
 
 # Troubleshooting
 
